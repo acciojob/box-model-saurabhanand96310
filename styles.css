@@ -1,9 +1,11 @@
 /*  your css code here. If applicable */
 .main{
 	background-color:gray;
-	border-color:1px solid black;
+	border-style:solid;
+	border-color:black;
 	border-radius:10px;
-	width:500px;
+	width:150px;
+	padding:50px
 }
 #green{
 	background-color:green;
@@ -18,8 +20,10 @@
 	
 }
 .color{
-	display:flex;
 	text-align:center;
+	 height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  display: inline-block;
 	
-	border-radius:50%;
 }
