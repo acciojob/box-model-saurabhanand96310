@@ -3,19 +3,19 @@
 	background-color:gray;
 	border-style:solid;
 	border-color:black;
-	border-radius:10px;
+	border-radius:20px;
 	width:150px;
 	padding:50px
 }
-#green{
+.green{
 	background-color:green;
 	
 }
-#yellow{
+.yellow{
 	background-color:yellow;
 	
 }
-#red{
+.red{
 	background-color:red;
 	
 }
